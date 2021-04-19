@@ -24,5 +24,5 @@ Gradle
 - After clicken the message away your once again in the Shop and you can buy additional minions if you like.
 
 ## Authors
-* **Alex Schwarz** - [github profil](https://github.zhaw.ch/schwaal3), **Alain Michienzi** - [github profil](https://github.zhaw.ch/michiala), **Austin Albrecht** - [github profil](https://github.zhaw.ch/albreaus) 
+* **Alex Schwarz** - [github profil](https://github.zhaw.ch/schwaal3), **Alain Michienzi** - [github profil](https://github.com/AlainMi95), **Austin Albrecht** - [github profil](https://github.zhaw.ch/albreaus) 
 
